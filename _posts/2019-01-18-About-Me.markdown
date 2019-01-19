@@ -5,6 +5,7 @@ categories: [posts]
 tags: [about_me]
 ---
   
+올해 산업기능요원으로 군 복무를 하고자 하는 서울대학교 컴퓨터공학부 4학년 김성은 입니다. 산업기능요원을 하기에 앞서 학교에서 접할 수 있는 과제나 소형 프로젝트를 넘어 더 큰 프로젝트를 다루며 실제로 많은 사람들이 사용하는 서비스를 위한 기술을 배우고자 합니다.    
 - 이름: 김성은
 - email: <cobaltblu27@snu.ac.kr>
 - Github: <https://github.com/cobaltblu27>
