@@ -1,5 +1,5 @@
 ---
-title:  "About Me"
+title:  "Resume"
 date:   2019-01-18 11:46:01
 categories: [posts]
 tags: [about_me]
