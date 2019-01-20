@@ -30,7 +30,7 @@ tags: [about_me]
 ### 그 외
 - Ocaml - 단순한 문법의 함수 지향 언어의 컴파일러 제작
 - R
-- Verilog 등등..
+- Verilog, java, GLSL 등등..
 
 ### 현재 작업환경
 - 현재는 주로 Manjaro/Arch Linux와 vscode를 사용하지만, 새로운 환경을 자주 시도해 보는 편입니다.
@@ -39,8 +39,8 @@ tags: [about_me]
 
 #### Moisha.tk
 [Link](http://moisha.tk)  
-2018년 소프트웨어 개발의 실제와 원리 수강 중에 진행한, 교내 커뮤니티 생성에 특화된 SNS입니다. 프런트엔드 위주로 참여했습니다.
+2018년 소프트웨어 개발의 실제와 원리 수강 중에 진행한, 교내 커뮤니티 생성에 특화된 SNS입니다. Angular을 이용한 프런트엔드와 nodejs와 websocket을 이용한 채팅용 서버 개발 위주로 참여했습니다.
 
 #### Dental Arch generator
-(image here)  
-2018년 창의적 통합설계 수강중에 진행한, OpenGL과 Qt를 이용하여 환자의 치열 구조를 분석하는 프로그램입니다. 3D Mesh 분석과 GUI 인터페이스를 중심으로 개발에 참여하였습니다. 
+![image](/images/dental_arch.png)  
+2018년 창의적 통합설계 수강중에 진행한, OpenGL과 Qt를 이용하여 환자의 치열 구조를 분석하는 프로그램입니다. C++를 이용한 stl 파일에서 불러온 3D Mesh 분석과 Qt를 사용한 GUI 인터페이스를 중심으로 개발에 참여하였습니다.  
