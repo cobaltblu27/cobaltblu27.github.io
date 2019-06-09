@@ -1,11 +1,12 @@
 ---
-title:  "Resume"
-date:   2019-01-18 11:46:01
+title: "Resume"
+date: 2019-01-18 11:46:01
 categories: [posts]
 tags: [about_me]
 ---
-  
-올해 산업기능요원으로 군 복무를 하고자 하는 서울대학교 컴퓨터공학부 4학년 김성은 입니다. 산업기능요원을 하기에 앞서 학교에서 접할 수 있는 과제나 소형 프로젝트를 넘어 더 큰 프로젝트를 다루며 실제로 많은 사람들이 사용하는 서비스를 위한 기술을 배우고자 합니다.    
+
+올해 산업기능요원으로 군 복무를 하고자 하는 서울대학교 컴퓨터공학부 4학년 김성은 입니다. React를 이용한 웹 프런트엔드 개발을 주로 하고있습니다.
+
 - 이름: 김성은
 - email: <cobaltblu27@snu.ac.kr>
 - Github: <https://github.com/cobaltblu27>
@@ -13,34 +14,45 @@ tags: [about_me]
 ## 다뤄본 기술
 
 ### Server/Web
-- Nginx
+
+- Typescript
+- React
+- Electron
 - Django + UWSGI
 - Nodejs/websocket
 - Angular
-- Travis CI
-- Locust  
 - Spigot
 
 ### C++/C
+
 - Qt
 - OpenGL
 - [OpenCL](https://github.com/cobaltblu27/cnn): 병렬 컴퓨팅을 이용한 CNN
 - Tensorflow - core api 프로파일링
 
 ### 그 외
+
 - Ocaml - 단순한 문법의 함수 지향 언어의 컴파일러 제작
 - R
-- Verilog, java, GLSL 등등..
+- Verilog, java 등등..
 
 ### 현재 작업환경
+
 - 현재는 주로 Manjaro/Arch Linux와 vscode를 사용하지만, 새로운 환경을 자주 시도해 보는 편입니다.
 
 ### 프로젝트
 
+#### VoyagerX - Vrew
+
+[Link](https://vrew.voyagerx.com/)  
+react와 electron을 이용한 데스크탑 영상편집 프로그램입니다. typescript를 이용한 nodejs 데스크탑, react app, 오픈소스를 이용한 C++를 이용하였습니다.
+
 #### Moisha.tk
-[Link](http://moisha.tk)  
+
+[Link](http://moisha.tk)(현재 닫힘)  
 2018년 소프트웨어 개발의 실제와 원리 수강 중에 진행한, 교내 커뮤니티 생성에 특화된 SNS입니다. Angular을 이용한 프런트엔드와 nodejs와 websocket을 이용한 채팅용 서버 개발 위주로 참여했습니다.
 
 #### Dental Arch generator
+
 ![image](/images/dental_arch.png)  
-2018년 창의적 통합설계 수강중에 진행한, OpenGL과 Qt를 이용하여 환자의 치열 구조를 분석하는 프로그램입니다. C++를 이용한 stl 파일에서 불러온 3D Mesh 분석과 Qt를 사용한 GUI 인터페이스를 중심으로 개발에 참여하였습니다.  
+2018년 창의적 통합설계 수강중에 진행한, OpenGL과 Qt를 이용하여 환자의 치열 구조를 분석하는 프로그램입니다. C++를 이용한 stl 파일에서 불러온 3D Mesh 분석과 Qt를 사용한 GUI 인터페이스를 중심으로 개발에 참여하였습니다.

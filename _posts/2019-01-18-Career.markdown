@@ -1,6 +1,6 @@
 ---
-title:  "Careers"
-date:   2019-01-18 10:46:01
+title: "Careers"
+date: 2019-01-18 10:46:01
 categories: [posts]
 tags: [about_me]
 ---
@@ -9,4 +9,4 @@ tags: [about_me]
 2014 - 고등학교 내 컴퓨터 동아리 CMD(Computer Mania Dong아리) 시작  
 2016 - 통영고등학교 졸업  
 2018 - 교내 서버 관리 동아리 Bacchus에서 활동  
-2019 - 서울대학교 컴퓨터공학부 휴학   
+2019 - 서울대학교 컴퓨터공학부 휴학, VoyagerX에서 근무중
